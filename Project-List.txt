@@ -1,0 +1,10 @@
+1. TeaWebApp
+2. Weather-App | HTML, CSS, JS
+3. Movie Serach Engine | CSS,HTML,JS
+4. Netflix-Clone Website |CSS, HTML
+5. Instagram_UI_Clone  | HTML, CSS
+
+
+
+
+>  This platform offers comprehensive resources on tea types, flavor profiles, and health benefits. 

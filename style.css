@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: black;
+    color: #FFFFFF;
+}
+
+.myProfile{
+    margin: 50px 15px;
+}
+.profile{
+    width: 250px;
+    height: 200px;
+    border-radius: 50%;
+    border: 4px solid #FFFFFF;
+}
+
+
+.about-me{
+    margin-top: 20px;
+}
+
+.profile-title{
+    font-size: 31px;
+    margin-bottom: 21px;
+}
+
+.role{
+    font-weight: 400;
+    font-size: 21px;
+    margin-bottom: 21px;
+}
+
+.desc{
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.desc p{
+    margin-top: 15px;
+}
+
+.desc p:last-child{
+    margin-bottom: 30px;
+}
+
+.socio-links{
+    margin-bottom: 50px;
+    font-size: 23px;
+}
+
+.section{
+    margin-top: 15px;
+}
+.titleHeader{
+    text-align: center;
+    font-size: 27px;
+    margin-bottom: 40px;
+}
+
+
+.project-Container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+}
+
+.card{
+    /* border: 1px solid red; */
+    width: 350px;
+    box-sizing: border-box;
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+.card img{
+    width: 100%;
+    height: 300px;
+}
+.text{
+    padding: 15px;
+}
+.project-title{
+    text-align: center;
+    padding: 5px;
+    font-size: 25px;
+    font-weight: 400;
+}
+.project-desc{
+    padding: 5px;  
+}
+
+
+.links{
+    margin: 19px;
+}
+.links a{
+    text-decoration: none;
+}
+
+.visit{
+    background-color: rgba(41, 41, 234, 0.708);
+    padding: 5px 10px;
+    border-radius: 10px;
+    color: #FFFFFF;
+    border: 1px solid #ffffff45;
+}
+.visit-text{
+    padding: 0 0 0 5px;
+    font-size: 16px;
+    font-weight: 600;
+}
+.code{
+    background-color: #FFFFFF;
+    padding: 5px 10px;
+    border-radius: 10px;
+    border: none;
+    margin-left: 15px;
+}
+.code-text{
+    padding: 0 0 0 5px;
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform:uppercase;
+}
+
+.tech{
+    margin: 5px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.tech1{
+    border: 1px solid rgba(147, 136, 136, 0.944);
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+}
