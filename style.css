@@ -28,6 +28,7 @@ body{
 .profile-title{
     font-size: 31px;
     margin-bottom: 21px;
+    font-weight: 500;
 }
 
 .role{
@@ -39,6 +40,7 @@ body{
 .desc{
     font-size: 18px;
     line-height: 1.5;
+    color: #ffffffc3;
 }
 
 .desc p{
@@ -51,7 +53,7 @@ body{
 
 .socio-links{
     margin-bottom: 50px;
-    font-size: 23px;
+    font-size: 35px;
 }
 
 .section{
@@ -59,8 +61,11 @@ body{
 }
 .titleHeader{
     text-align: center;
-    font-size: 27px;
-    margin-bottom: 40px;
+    font-size: 31px;
+    margin-bottom: 60px;
+    font-weight: 600;
+    text-shadow: 1px 1px 3px rgba(255, 255, 255, 0.744);
+    color: #e66814df;
 }
 
 
@@ -88,7 +93,8 @@ body{
     text-align: center;
     padding: 5px;
     font-size: 25px;
-    font-weight: 400;
+    font-weight: 500;
+    color: rgba(220, 20, 60, 0.915);
 }
 .project-desc{
     padding: 5px;  
